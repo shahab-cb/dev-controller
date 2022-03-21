@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "shahab-cb-dev-controller"
+description: "CloudBees CI configuration bundle for the shahab-cb dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/shahab-cb/dev-controller"
+parent: "base"
